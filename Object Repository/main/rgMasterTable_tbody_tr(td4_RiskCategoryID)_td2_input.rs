@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rgMasterTable_tbody_tr(td4_RiskCategoryID)_td2_input</name>
+   <tag></tag>
+   <elementGuidId>381a6b2d-dec3-48ab-be2d-489a692dea5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//table[@id='ctl00_cphMain_RadGridRiskCategory_ctl00']/tbody/tr[contains(td[4],'${ID}')]/td[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_cphMain_RadGridRiskCategory_ctl00']/tbody/tr[contains(td[4],'${ID}')]/td[2]/input</value>
+   </webElementProperties>
+</WebElementEntity>
